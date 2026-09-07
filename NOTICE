@@ -1,0 +1,40 @@
+@capawesome/ionic-framework-mcp
+Copyright (c) 2026 Robin Genz
+
+This package is a client for the Ionic Framework MCP server hosted at
+https://ionic-framework-mcp.capawesome.io/mcp. The package itself contains no
+documentation content; the content below is served by that server.
+
+--------------------------------------------------------------------------
+Ionic Framework documentation
+--------------------------------------------------------------------------
+Copyright (c) the Ionic team.
+Licensed under the Apache License, Version 2.0.
+Source: https://github.com/ionic-team/ionic-docs
+
+The documentation is converted from MDX to Markdown for delivery over MCP
+and is otherwise served unmodified in substance. A copy of the Apache
+License, Version 2.0 is available at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+--------------------------------------------------------------------------
+@ionic/docs
+--------------------------------------------------------------------------
+Copyright (c) the Ionic team.
+Licensed under the MIT License.
+Source: https://www.npmjs.com/package/@ionic/docs
+
+Used for the component API reference.
+
+--------------------------------------------------------------------------
+Ionic blog
+--------------------------------------------------------------------------
+Copyright (c) the Ionic team.
+Excerpts from https://ionic.io/blog are served with a link to the original
+post.
+
+--------------------------------------------------------------------------
+
+Ionic is a trademark of its respective owner. This project is not affiliated
+with or endorsed by Ionic or OutSystems.
