@@ -1,7 +1,7 @@
 {
   "name": "@capawesome/ionic-framework-mcp",
   "version": "0.0.1",
-  "description": "Unofficial MCP server for the Ionic Framework documentation.",
+  "description": "Unofficial MCP server for the Ionic Framework documentation, components and blog.",
   "mcpName": "io.capawesome/ionic-framework-mcp",
   "type": "module",
   "scripts": {
@@ -30,10 +30,12 @@
   ],
   "keywords": [
     "ai",
+    "capacitor",
     "capawesome",
     "ionic",
     "ionic-framework",
     "mcp",
+    "mcp-server",
     "model-context-protocol"
   ],
   "author": "Robin Genz <mail@robingenz.dev>",
@@ -45,7 +47,7 @@
   "bugs": {
     "url": "https://github.com/capawesome-team/ionic-framework-mcp/issues"
   },
-  "homepage": "https://capawesome.io/",
+  "homepage": "https://capawesome.io/docs/ai/mcp/ionic-framework/",
   "funding": [
     {
       "type": "github",
