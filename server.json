@@ -3,7 +3,7 @@
   "name": "io.capawesome/ionic-framework-mcp",
   "description": "Unofficial MCP server for the Ionic Framework documentation, components and blog.",
   "version": "0.0.1",
-  "websiteUrl": "https://capawesome.io/",
+  "websiteUrl": "https://capawesome.io/docs/ai/mcp/ionic-framework/",
   "repository": {
     "url": "https://github.com/capawesome-team/ionic-framework-mcp",
     "source": "github"
